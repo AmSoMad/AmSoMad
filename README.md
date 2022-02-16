@@ -80,5 +80,8 @@
 </p> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [사진의 GPS정보로 사진정리하기-2](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post3/)
+- [사진의 GPS정보로 사진정리하기](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post2/)
+- [블로그 첫 생성](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post1/)
 <!-- BLOG-POST-LIST:END -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:79AEF2,50:7165BF,100:F28F78&height=100&section=footer)
