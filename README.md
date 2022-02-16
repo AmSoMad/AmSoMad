@@ -1,7 +1,4 @@
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<script src="https://unpkg.com/@codersrank/activity@x.x.x/codersrank-activity.min.js"></script>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=200&section=header)
 
