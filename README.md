@@ -79,4 +79,6 @@
             <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepadplusplus&logoColor=white&link=https://www.google.com/intl/ko/chrome/">
 </p> -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:79AEF2,50:7165BF,100:F28F78&height=100&section=footer)
