@@ -4,7 +4,7 @@
 
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=amsomad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=amsomad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -19,5 +19,6 @@
 <codersrank-summary username="amsomad"></codersrank-summary>
 <codersrank-activity username="amsomad"></codersrank-activity>
 </p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=100&section=footer)
