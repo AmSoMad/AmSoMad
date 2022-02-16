@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=100&section=header)
 
 
 <p align="center">
@@ -20,4 +20,4 @@
 <codersrank-activity username="amsomad"></codersrank-activity>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ebf9fd,50:d88fe8&height=100&section=footer)
