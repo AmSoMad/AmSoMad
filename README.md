@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:79AEF2,50:7165BF,100:F28F78&height=100&section=header)
 
 
-### 👋&nbsp; Hi there!
+### 👋&nbsp; Hi there! 백준 승급전중
 
 <p align="center">
     <img width="150em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famsomad&count_bg=%2343AFEB&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/>
