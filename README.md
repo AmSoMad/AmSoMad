@@ -51,13 +51,13 @@
 > other
 
 <p align="center">    
-            <img width="200em" src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=white&link=https://www.openstreetmap.org/">
+            <img width="200em" src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=white&">
 </p>
 
 <p align="center">    
-            <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white&link=https://www.openstreetmap.org/">
-            <img src="https://img.shields.io/badge/Microsoft Excel-2B579A?style=flat-square&logo=MicrosoftExcel&logoColor=white&link=https://www.openstreetmap.org/">
-            <img src="https://img.shields.io/badge/Microsoft Excel-B7472A?style=flat-square&logo=MicrosoftExcel&logoColor=white&link=https://www.openstreetmap.org/">
+            <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white&">
+            <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=white&">
+            <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white&">
 </p>
 
 > Very important
