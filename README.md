@@ -23,7 +23,9 @@
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsomad&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=tokyonight&&bg_color=transparent&title_color=79AEF2&text_color=7165BF&icon_color=F28F78&border_color=F28F78&"/>
+
 </p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bada)](https://solved.ac/bada)
 
 <br>
 
