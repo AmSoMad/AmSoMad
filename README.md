@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-    <img width="450em" src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white&link=https://amsomad.com"/>
+    <a href="https://amsomad.com">
+    <img width="450em" src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white&link=#"/></a>
 </p>
 
 <p align="center">
