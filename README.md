@@ -3,7 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:79AEF2,50:7165BF,100:F28F78&height=100&section=header)
 
 
-### 👋&nbsp; Hi there! 백준 승급전중
+<hr>
+<h3 align="center">
+    Hello, welcome to my profile
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h3>
+<div align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%7165BF&size=35&duration=4200&center=true&vCenter=true&width=600&height=60&lines=I'm+junior+developer;www.amsomad.com" alt="Welcome to my profile 'AmSoMad' , I'm junior developer, www.amsomad.com">
+</div>
+
 
 <p align="center">
     <img width="150em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famsomad&count_bg=%2343AFEB&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/>
@@ -27,7 +35,7 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsomad&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=tokyonight&&bg_color=transparent&title_color=79AEF2&text_color=7165BF&icon_color=F28F78&border_color=F28F78&"/>
 
 </p>
-
+<hr>
 <br>
 
 > NEWBIE
@@ -50,7 +58,7 @@
     <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=OpenStreetMap&logoColor=white&link=https://www.openstreetmap.org/">
     <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white&link=https://www.openstreetmap.org/">
 </p>
-
+<hr>
 > other
 
 <p align="center">    
@@ -79,7 +87,7 @@
             <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white&link=https://www.google.com/intl/ko/chrome/">
             <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepadplusplus&logoColor=white&link=https://www.google.com/intl/ko/chrome/">
 </p> -->
-
+<hr>
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
