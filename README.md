@@ -91,11 +91,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring Boot] Spring Data JPA](https://amsomad.github.io/spring/post6/)
 - [사진의 GPS정보로 사진정리하기-3[앞으로]](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post5/)
 - [교보문고를 갔다가 사서읽은 책 &lpar;후기&rpar;](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post4/)
 - [사진의 GPS정보로 사진정리하기-2](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post3/)
 - [사진의 GPS정보로 사진정리하기](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post2/)
-- [블로그 첫 생성](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post1/)
 <!-- BLOG-POST-LIST:END -->
 
 
