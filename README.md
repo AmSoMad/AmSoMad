@@ -91,11 +91,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [우분투 20.04.4 로그인오류](https://amsomad.github.io/%EC%84%9C%EB%B2%84/post8/)
-- [우분투 USB 부팅디스크 설치 20.04.4](https://amsomad.github.io/%EC%84%9C%EB%B2%84/post7/)
+- [[C#]SerialPort QRcode read](https://amsomad.github.io/c%23/serialPort/)
+- [[MES] 1. Inventory와 Stock](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/post9/)
+- [우분투 20.04.4 로그인오류](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_Login_error/)
+- [우분투 USB 부팅디스크 설치 20.04.4](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install/)
 - [[디자인]Web개발 필요한 사이트 모음 - 22.04.11](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/post6/)
-- [사진의 GPS정보로 사진정리하기-3[앞으로]](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/post5/)
-- [교보문고를 갔다가 사서읽은 책 &lpar;후기&rpar;](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post4/)
 <!-- BLOG-POST-LIST:END -->
 
 
