@@ -95,7 +95,7 @@
 - [[MES] 1. Inventory와 Stock](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/post9/)
 - [우분투 20.04.4 로그인오류](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_Login_error/)
 - [우분투 USB 부팅디스크 설치 20.04.4](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install/)
-- [[디자인]Web개발 필요한 사이트 모음 - 22.04.11](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/post6/)
+- [[디자인]Web개발 필요한 사이트 모음 - 22.04.11](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/design_moum/)
 <!-- BLOG-POST-LIST:END -->
 
 
