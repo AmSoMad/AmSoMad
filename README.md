@@ -91,11 +91,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[MES] 2. LeadTime의 종류와 개선방안](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/leadtime/)
 - [[C#]SerialPort QRcode read](https://amsomad.github.io/c%23/serialPort/)
-- [[MES] 1. Inventory와 Stock](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/post9/)
+- [[MES] 1. Inventory와 Stock](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/InventoryStock/)
 - [우분투 20.04.4 로그인오류](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_Login_error/)
 - [우분투 USB 부팅디스크 설치 20.04.4](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install/)
-- [[디자인]Web개발 필요한 사이트 모음 - 22.04.27](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/design_moum/)
 <!-- BLOG-POST-LIST:END -->
 
 
