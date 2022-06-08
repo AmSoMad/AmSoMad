@@ -92,11 +92,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법](https://amsomad.github.io/c%23/gRPC-Web/)
 - [[C#-gRPC] Unimplemented Service Error 뜰경우](https://amsomad.github.io/c%23/unimplemented/)
 - [[Android-Kotlin] 통신오류 UNAVAILABLE 뜰때](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_UNAVAILABLE/)
 - [[Web]Chrome 브라우져&lpar;크롬&rpar; 파일첨부시 튕길때](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/han2014bug/)
 - [[MES] 2. LeadTime의 종류와 개선방안](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/leadtime/)
-- [[C#]SerialPort QRcode read](https://amsomad.github.io/c%23/serialPort/)
 <!-- BLOG-POST-LIST:END -->
 
 
