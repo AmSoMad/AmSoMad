@@ -92,7 +92,7 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [크롬 파일첨부시 튕길때](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/han2014bug/)
+- [[Web]Chrome 브라우져&lpar;크롬&rpar; 파일첨부시 튕길때](https://amsomad.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0/han2014bug/)
 - [[MES] 2. LeadTime의 종류와 개선방안](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/leadtime/)
 - [[C#]SerialPort QRcode read](https://amsomad.github.io/c%23/serialPort/)
 - [[MES] 1. Inventory와 Stock](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/InventoryStock/)
