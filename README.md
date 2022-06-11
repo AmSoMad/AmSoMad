@@ -12,6 +12,8 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%7165BF&size=35&duration=4200&center=true&vCenter=true&width=600&height=60&lines=I'm+junior+developer;www.amsomad.com" alt="Welcome to my profile 'AmSoMad' , I'm junior developer, www.amsomad.com">
 </div>
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/-JhoMGoAfFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <p align="center">
     <img width="150em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famsomad&count_bg=%2343AFEB&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/>
