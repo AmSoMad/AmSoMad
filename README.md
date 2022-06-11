@@ -8,11 +8,9 @@
     Hello, welcome to my profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h3>
-<div align="center">
+<!-- <div align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%7165BF&size=35&duration=4200&center=true&vCenter=true&width=600&height=60&lines=I'm+junior+developer;www.amsomad.com" alt="Welcome to my profile 'AmSoMad' , I'm junior developer, www.amsomad.com">
-</div>
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/-JhoMGoAfFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> -->
 
 
 <p align="center">
