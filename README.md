@@ -114,11 +114,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Android-Kotlin] 30 Seconds of Kotlin](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_30_seconds_of_kotlin/)
 - [[Android-Kotlin] 안드로이드 gRPC 통신하는 예제](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_unaryCall/)
 - [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법](https://amsomad.github.io/c%23/gRPC-Web/)
 - [[Blazor] Blazor를 이용하여 브라우저 Console.log 찍는방법](https://amsomad.github.io/c%23/blazor_console_log/)
 - [[C#-gRPC] Unimplemented Service Error 뜰경우](https://amsomad.github.io/c%23/unimplemented/)
-- [[Android-Kotlin] 통신오류 UNAVAILABLE 뜰때](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_UNAVAILABLE/)
 <!-- BLOG-POST-LIST:END -->
 
 
