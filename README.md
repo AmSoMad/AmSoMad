@@ -114,7 +114,7 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[C#-gRPC] Proto 에러 목록 및 해결법](https://amsomad.github.io/c%23/gRPC_dotnet_error_list/)
+- [[gRPC] Proto 에러 목록 및 해결법](https://amsomad.github.io/grpc/gRPC_error_list/)
 - [[Android-Kotlin] 30 Seconds of Kotlin](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_30_seconds_of_kotlin/)
 - [[Android-Kotlin] 안드로이드 gRPC 통신하는 예제](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_unaryCall/)
 - [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법](https://amsomad.github.io/c%23/gRPC-Web/)
