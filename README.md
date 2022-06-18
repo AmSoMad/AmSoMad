@@ -29,11 +29,6 @@
 </p>
 
 <p align="center">
-    <a href="https://amsomad.com">
-    <img width="450em" src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white&link=#"/></a>
-</p>
-
-<p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=amsomad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=transparent&title_color=79AEF2&text_color=7165BF&icon_color=F28F78&border_color=F28F78&"/>
 </p>
 
