@@ -109,11 +109,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법](https://amsomad.github.io/c%23/blazor_gRPC_Web/)
 - [[Android-Kotlin] ListView 클릭이벤트 추가하기](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_listView_clickEvent/)
 - [[gRPC-Web] gRPC-Web 브라우저에서 사용하기](https://amsomad.github.io/grpc/protoc-grpc-web-js/)
 - [[Android-Kotlin] ListView 출력방법&lpar;gRPC통신&rpar;](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_listView_create/)
 - [[마우스 휠 흔들림] 마우스휠 위아래 흔들릴때](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/mouseupdown/)
-- [[gRPC] Proto 에러 목록 및 해결법](https://amsomad.github.io/grpc/gRPC_error_list/)
 <!-- BLOG-POST-LIST:END -->
 
 
