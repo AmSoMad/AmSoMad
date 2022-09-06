@@ -108,10 +108,10 @@
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Blazor]Web Development With Blazor - &lpar;22.07.06 ~ ing&rpar;](https://amsomad.github.io/c%23/Web_Development_With_Blazor/)
+- [[Blazor] Blazor를 이용하여 accordion 만들기](https://amsomad.github.io/c%23/blazor_menu_accordionButton/)
 - [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법 22-07-22](https://amsomad.github.io/c%23/blazor_gRPC_Web/)
 - [[Android-Kotlin] ListView 클릭이벤트 추가하기](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_listView_clickEvent/)
 - [[gRPC-Web] gRPC-Web 브라우저에서 사용하기](https://amsomad.github.io/grpc/protoc-grpc-web-js/)
-- [[Android-Kotlin] ListView 출력방법&lpar;gRPC통신&rpar;](https://amsomad.github.io/%EC%9E%90%EB%B0%94/Kotlin_listView_create/)
 <!-- BLOG-POST-LIST:END -->
 
 
