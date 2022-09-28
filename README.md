@@ -107,7 +107,7 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [내 자신의 대화가 문제있다는 생각에 읽게된 책](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post/)
+- [내 자신의 대화가 문제있다는 생각에 읽게된 책](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post5/)
 - [[Blazor] Blazor에서 JavaScript 함수 호출](https://amsomad.github.io/c%23/blazor_javascript_function/)
 - [[Blazor]Web Development With Blazor - &lpar;22.07.06 ~ ing&rpar;](https://amsomad.github.io/c%23/Web_Development_With_Blazor/)
 - [[Blazor] Blazor를 이용하여 accordion 만들기](https://amsomad.github.io/c%23/blazor_menu_accordionButton/)
