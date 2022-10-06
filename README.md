@@ -107,11 +107,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Web]html, javascript 잡동사니](https://amsomad.github.io/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/10second/)
 - [내 자신의 대화가 문제있다는 생각에 읽게된 책](https://amsomad.github.io/%EB%82%98%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0/post5/)
 - [[Blazor] Blazor에서 JavaScript 함수 호출](https://amsomad.github.io/c%23/blazor_javascript_function/)
 - [[Blazor]Web Development With Blazor - &lpar;22.07.06 ~ ing&rpar;](https://amsomad.github.io/c%23/Web_Development_With_Blazor/)
 - [[Blazor] Blazor를 이용하여 accordion 만들기](https://amsomad.github.io/c%23/blazor_menu_accordionButton/)
-- [[gRPC-Web] Blazor를 이용하여 gRPC 서비스 클라이언트 호출 방법 22-07-22](https://amsomad.github.io/c%23/blazor_gRPC_Web/)
 <!-- BLOG-POST-LIST:END -->
 
 
