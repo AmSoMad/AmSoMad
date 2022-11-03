@@ -109,9 +109,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [[AI-Yolov5] Yolov5 torch를 Flask에서 사용](https://amsomad.github.io/ai/yolov5/)
 - [[AI-tensorFlow] TensorFlow를 Flask에서 사용](https://amsomad.github.io/ai/tensorflow/)
+- [[Web]dropzone.js 활용](https://amsomad.github.io/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/dropzone_js/)
 - [[AI]Stable-Diffusion 학습데이터 변경](https://amsomad.github.io/ai/stable_diffusion/)
 - [[Blazor]Web Development With Blazor - &lpar;22.07.06 ~ ing&rpar;](https://amsomad.github.io/c%23/Web_Development_With_Blazor/)
-- [[Web]html, javascript 잡동사니](https://amsomad.github.io/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/10second/)
 <!-- BLOG-POST-LIST:END -->
 
 
