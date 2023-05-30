@@ -107,11 +107,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [linux 명령어 모음](https://amsomad.github.io/%EC%84%9C%EB%B2%84/linux_command/)
 - [ubuntu openssl 설치 및 사용법](https://amsomad.github.io/%EC%84%9C%EB%B2%84/openssl/)
+- [ubuntu 20.04 .NET 7 설치](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_dotnet7/)
 - [docker 명령어 모음](https://amsomad.github.io/%EC%84%9C%EB%B2%84/docker/)
 - [[AI-Yolov5] Yolov5 torch를 Flask에서 사용](https://amsomad.github.io/ai/yolov5/)
-- [[AI-tensorFlow] TensorFlow를 Flask에서 사용](https://amsomad.github.io/ai/tensorflow/)
-- [[Web]dropzone.js 활용](https://amsomad.github.io/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/dropzone_js/)
 <!-- BLOG-POST-LIST:END -->
 
 
