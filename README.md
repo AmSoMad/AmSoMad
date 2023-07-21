@@ -108,10 +108,10 @@
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[MES] 생산관리 시스템의 구조](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/industrial_mes/)
-- [[Win]윈도우-cmd 관리자 권한 실행 및 복구방법](https://amsomad.github.io/%EC%84%9C%EB%B2%84/sfc_scannow-copy/)
 - [[Win]윈도우-cmd 관리자 권한 실행 및 복구방법](https://amsomad.github.io/%EC%84%9C%EB%B2%84/sfc_scannow/)
 - [[Zebra] Zebra Printer ZPL 언어 키워드모음](https://amsomad.github.io/c%23/zebra_printer_zpl/)
 - [[Flutter] GRPC 통신](https://amsomad.github.io/grpc/flutter_dart_gRPC/)
+- [ASP.NET Core HTTPS 설정](https://amsomad.github.io/%EC%84%9C%EB%B2%84/aspnetcorehttps/)
 <!-- BLOG-POST-LIST:END -->
 
 
