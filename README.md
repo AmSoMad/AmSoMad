@@ -107,11 +107,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Ubuntu] 우분투 설치 후 Docker, Kubernetes, SQL Server 설치](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install_after_command/)
 - [[AI] C# Onnx Object Detection with Winforms](https://amsomad.github.io/c%23/Onnx_ObjectDetection_winforms/)
 - [[Web] C# stream camera to web](https://amsomad.github.io/c%23/camera_streaming/)
 - [[gRPC]gRPC-Auto Compiler with github action](https://amsomad.github.io/grpc/grpc_auto_compiler/)
 - [[MES] 생산관리 시스템의 구조](https://amsomad.github.io/%EC%82%B0%EC%97%85%EC%9D%B4%EC%95%BC%EA%B8%B0/industrial_mes/)
-- [[Win]윈도우-cmd 관리자 권한 실행 및 복구방법](https://amsomad.github.io/%EC%84%9C%EB%B2%84/sfc_scannow/)
 <!-- BLOG-POST-LIST:END -->
 
 
