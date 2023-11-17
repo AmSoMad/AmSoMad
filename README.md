@@ -23,10 +23,11 @@
 
 <p align="center">
     <img width="150em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famsomad&count_bg=%2343AFEB&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/>
-    <img width="300em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bada"/>
+    
 </p>
 <!--
 <p align="center">
+<img width="300em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bada"/>
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=amsomad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=transparent&title_color=79AEF2&text_color=7165BF&icon_color=F28F78&border_color=F28F78&"/>
 </p>
 <p align="center">
