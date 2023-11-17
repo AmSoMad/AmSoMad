@@ -107,11 +107,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[News] 테스트](https://amsomad.github.io/%EB%89%B4%EC%8A%A4/post1/)
 - [[Flask] Python Flask 웹 서버를 Windows 서비스로 등록](https://amsomad.github.io/%EC%84%9C%EB%B2%84/python_windows_service/)
 - [[Ubuntu] 우분투 설치 후 Docker, Kubernetes, SQL Server 설치](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install_after_command/)
 - [[AI] C# Onnx Object Detection with Winforms](https://amsomad.github.io/c%23/Onnx_ObjectDetection_winforms/)
 - [[Web] C# stream camera to web](https://amsomad.github.io/c%23/camera_streaming/)
+- [[gRPC]gRPC-Auto Compiler with github action](https://amsomad.github.io/grpc/grpc_auto_compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 
