@@ -106,11 +106,11 @@
 
 > Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[WinUI3] .NET 8 - WinUI Project Install Error &amp;amp; Fixed](https://amsomad.github.io/c%23/winUI3_error/)
 - [[windows11] 추가 옵션 표시를 기존으로](https://amsomad.github.io/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/windows11_menu/)
 - [[Flask] Python Flask 웹 서버를 Windows 서비스로 등록](https://amsomad.github.io/%EC%84%9C%EB%B2%84/python_windows_service/)
 - [[Ubuntu] 우분투 설치 후 Docker, Kubernetes, SQL Server 설치](https://amsomad.github.io/%EC%84%9C%EB%B2%84/ubuntu_install_after_command/)
 - [[AI] C# Onnx Object Detection with Winforms](https://amsomad.github.io/c%23/Onnx_ObjectDetection_winforms/)
-- [[Web] C# stream camera to web](https://amsomad.github.io/c%23/camera_streaming/)
 <!-- BLOG-POST-LIST:END -->
 
 
